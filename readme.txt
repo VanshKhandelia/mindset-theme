@@ -1,6 +1,6 @@
 == Mindset Theme ==
 
-Contributors: 
+Contributors: Vansh Khandelia
 Requires at least: 6.7
 Tested up to: 6.7
 Requires PHP: 5.7
